@@ -1,0 +1,7 @@
+id = "z-dracula-theme"
+name = "Z Dracula Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Isac Petinate"]
+description = "Dracula-inspired theme extension for Zed."
+repository = "https://github.com/ipetinate/z-dracula"
