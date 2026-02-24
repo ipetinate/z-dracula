@@ -16,4 +16,4 @@ Theme extension for the Zed editor.
 
 ## Preview
 
-![Theme Preview]("/docs/images/preview.png")
+![Theme Preview]("[/docs/images/preview.png](https://github.com/ipetinate/z-dracula/blob/main/docs/images/preview.png)")
