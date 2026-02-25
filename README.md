@@ -58,4 +58,5 @@ version = "0.1.0"
 
 ## Preview
 
-![Theme Preview]("https://raw.githubusercontent.com/ipetinate/z-dracula/refs/heads/main/docs/images/preview.png")
+<img src="https://raw.githubusercontent.com/ipetinate/z-dracula/refs/heads/main/docs/images/preview.png" alt="Alt text" style="float:right; margin: 0 0 10px 10px;">
+
